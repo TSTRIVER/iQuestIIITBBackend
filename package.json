@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@gradio/client": "^0.16.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "eventsource": "^2.0.2"
+  }
+}
